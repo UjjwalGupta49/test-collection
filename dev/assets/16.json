@@ -1,0 +1,19 @@
+{
+    "name": "Sunset #0001",
+    "symbol": "SS",
+    "description": "Collection of 10 numbers on the blockchain. This is the number 1/10.",
+    "seller_fee_basis_points": 500,
+    "image": "16.png",
+    "attributes": [
+        {"Sun": "Layer-1", "value": "3"},
+        {"Clouds": "Layer-2", "value": "4"}, 
+        {"Hills": "Layer-3", "value": "8"},
+        {"Wind": "Layer-3", "value": "6"},
+        {"Sea": "Layer-4", "value": "2"}
+    ],
+    "properties": {
+        "creators": [{"address": "FJJmmXdKqyHy8g8Cxnacq1Qe8h2GmcPBHTwudhZrVGx3", "share": 100}],
+        "files": [{"uri": "16.png", "type": "image/png"}]
+    },
+    "collection": {"name": "numbers", "family": "numbers"}
+}
